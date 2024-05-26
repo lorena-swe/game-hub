@@ -10,7 +10,7 @@ import SortSelector from "./components/SortSelector";
 import GameHeading from "./components/GameHeading";
 
 export interface GameQuery {
-  genreId?: number;
+  genreId: number;
   platformId: number;
   sortOrder: string;
   searchText: string;
