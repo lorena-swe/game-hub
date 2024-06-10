@@ -11,7 +11,7 @@
   <br />
 
   <p align="center">
-    <a href="https://lorena-swe-game-hub.vercel.app/">View Website</a>
+    <a href="https://lorena-swe-game-hub.vercel.app/" target="_blank">View Website</a>
     ·
     <a href="https://github.com/lorena-swe/game-hub">Code</a>
   </p>
