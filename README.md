@@ -19,16 +19,15 @@
 
 <br /><br />
 
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
-<!--
+
 <div align="center">
   <a href="https://lorena-swe-game-hub.vercel.app/">
-    <img src="src/assets/screenshot.png" alt="Project Screenshot">
+    <img src="src/assets/gameHubDemoGif.gif" alt="Project Demo">
   </a>
 </div>
--->
 
 In this project, I worked with the RAWG.io API to develop a web app displaying a comprehensive list of video games, which can then be filtered by keywords, genres, and platforms, as well as sorted by multiple variables. The website also provides loading skeletons for a seamless and interactive user experience! I had plenty of fun developing this project, as video games are one of my fondest passions and inspired me to get into the programming world in the first place!
 
@@ -41,14 +40,14 @@ In this project, I worked with the RAWG.io API to develop a web app displaying a
 
 ### Built With
 
-* [React.js](https://reactjs.org/)
-* [Chakra UI](https://v2.chakra-ui.com/)
-* TypeScript
-* HTML & CSS
-* [RAWG.io API](https://rawg.io/apidocs)
-
+- [React.js](https://reactjs.org/)
+- [Chakra UI](https://v2.chakra-ui.com/)
+- TypeScript
+- HTML & CSS
+- [RAWG.io API](https://rawg.io/apidocs)
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 To get a local copy up and running, follow these simple example steps:
@@ -56,6 +55,7 @@ To get a local copy up and running, follow these simple example steps:
 ### Prerequisites
 
 Ensure you have npm installed:
+
 ```sh
 npm install npm@latest -g
 ```
@@ -63,17 +63,23 @@ npm install npm@latest -g
 ### Installation
 
 1. Clone the repo
-  ```sh
-  git clone https://github.com/lorena-swe/game-hub.git
-  ```
+
+```sh
+git clone https://github.com/lorena-swe/game-hub.git
+```
+
 2. Install NPM Packages
-  ```sh
-  npm install
-  ```
+
+```sh
+npm install
+```
+
 3. Run the app in development mode
-  ```sh
-  npm start
-  ```
+
+```sh
+npm start
+```
+
 4. Open [http://localhost:3000](http://localhost:3000) (port number might differ) to view it in your browser. The page will reload as you make changes to the code.
 
 ## Contributing
