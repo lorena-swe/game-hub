@@ -82,7 +82,7 @@ npm install
 npm start
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) (port number might differ) to view it in your browser. The page will reload as you make changes to the code.
+4. Open [http://localhost:5173](http://localhost:5173) (port number might differ) to view it in your browser. The page will reload as you make changes to the code.
 
 ## Contributing
 
