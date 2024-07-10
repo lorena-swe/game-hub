@@ -102,6 +102,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Lorena - [LinkedIn](https://www.linkedin.com/in/lorena-zotaj/)
 
-Project Link: [https://github.com/lorena-swe/issue-tracker](https://github.com/lorena-swe/issue-tracker)
+Project Link: [https://github.com/lorena-swe/game-hub](https://github.com/lorena-swe/game-hub)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
