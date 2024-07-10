@@ -29,6 +29,8 @@
   </a>
 </div>
 
+<br />
+
 In this project, I worked with the RAWG.io API to develop a web app displaying a comprehensive list of video games, which can then be filtered by keywords, genres, and platforms, as well as sorted by multiple variables. The website also provides loading skeletons for a seamless and interactive user experience! I had plenty of fun developing this project, as video games are one of my fondest passions and inspired me to get into the programming world in the first place!
 
 ### Features
